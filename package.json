@@ -1,0 +1,26 @@
+{
+  "name": "fo-dicom",
+  "version": "1.0.0",
+  "description": "<img src=\"https://lh3.googleusercontent.com/-Fq3nigRUo7U/VfaIPuJMjfI/AAAAAAAAALo/7oaLrrTBhnw/s1600/Fellow%2BOak%2BSquare%2BTransp.png\" alt=\"fo-dicom logo\" height=\"80\" />",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HwangTaehyun/fo-dicom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HwangTaehyun/fo-dicom/issues"
+  },
+  "homepage": "https://github.com/HwangTaehyun/fo-dicom#readme",
+  "dependencies": {
+    "all-contributors-cli": "^6.24.0",
+    "fs-jetpack": "^5.1.0",
+    "markdown-json": "^1.6.1",
+    "zx": "^7.1.1"
+  }
+}
